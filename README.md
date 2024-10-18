@@ -61,7 +61,7 @@ I'm a passionate **Software Developer** with a deep interest in designing and bu
 
 ### 📫 Connect with Me
 
-- **LinkedIn**: [Aouechria Rayen](www.linkedin.com/in/aouechria-rayen-4068a229b)
+- **LinkedIn**: [Aouechria Rayen](https://linkedin.com/in/aouechria-rayen-4068a229b)
 - **GitHub**: [rayen0001](https://github.com/rayen0001)
 - **Email**: rayenaouechria@gmail.com
 
